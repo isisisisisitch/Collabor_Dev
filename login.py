@@ -6,3 +6,5 @@ num2 = 20  #clientB
 num3 = 300 # clientA
 
 num5 = 50  #clientB
+
+num 6 = 60 # clientB
