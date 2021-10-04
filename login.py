@@ -1,6 +1,6 @@
 
 num1 = 1  #clientA
-num4 = 40  #clientB
+num4 = 4  #clientB
 num2 = 20  #clientB
 
 num3 = 30 # clientA
